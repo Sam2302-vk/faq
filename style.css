@@ -1,0 +1,14 @@
+body{
+    border: 2px solid black;
+    width: 30%;
+    margin: 200px 450px;
+}
+details{
+    margin: 20px;
+}
+h2{
+    margin-left: 20px;
+}
+summary{
+    background-color: rgb(34, 196, 196);
+}
